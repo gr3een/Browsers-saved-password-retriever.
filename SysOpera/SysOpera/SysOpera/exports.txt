@@ -1,0 +1,6 @@
+Microsoft (R) COFF/PE Dumper Version 14.24.28316.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file sqlite3.dll
+LINK : fatal error LNK1181: cannot open input file 'sqlite3.dll'
